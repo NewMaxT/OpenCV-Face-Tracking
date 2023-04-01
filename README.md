@@ -28,6 +28,8 @@ C++ Fast Face Tracking on Raspberry Pi using OpenCV2 librairie and Haar Cascade 
 
 - Runs headless on Raspberry Pi.
 
+- Easy configuration (GUI and CLI)
+
 ### TODO LIST :pushpin:
 
 ```markdown
