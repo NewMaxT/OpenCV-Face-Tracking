@@ -1,6 +1,9 @@
+[![Issues](https://img.shields.io/github/issues-raw/NewMaxT/OpenCV-Face-Tracking?label=Issues&style=for-the-badge)]()
 # Enhanced OpenCV Face Tracking
 
 C++ Fast Face Tracking on Raspberry Pi using OpenCV2 librairie and Haar Cascade Filters.
+
+Feel free to PR. I will review all of them.
 
 ## Repo Structure :open_file_folder:
 
@@ -44,3 +47,14 @@ C++ Fast Face Tracking on Raspberry Pi using OpenCV2 librairie and Haar Cascade 
 ```
 FIX NOTES
 ```
+
+## Documentations
+
+ - [OpenCV Docs](https://docs.opencv.org/)
+ - [Raspberry Docs](https://www.raspberrypi.com/documentation/)
+
+## Tools used
+<div width="100%">
+ <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion.png" alt="CLion" height="200px"/>
+ <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="OpenCV" height="200px"/>
+</div>
