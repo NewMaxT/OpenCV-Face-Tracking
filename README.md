@@ -55,6 +55,6 @@ FIX NOTES
 
 ## Tools used
 <div width="100%">
- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion.png" alt="CLion" height="200px"/>
- <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="OpenCV" height="200px"/>
+ <img href="www.jetbrains.com" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion.png" alt="CLion" height="200px"/>
+ <img href="https://opencv.org/" src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_black.png" alt="OpenCV" height="200px"/>
 </div>
