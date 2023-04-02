@@ -5,9 +5,16 @@
  * */
 
 #include <stdio.h>
+#include <ConfigParser.h>
 
 int main(int argc, char *argv[]) {
     printf ("%s\n", "Hello world");
+
+    ConfigParser("TEST");
+
+
+
+
 }
 
 
