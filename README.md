@@ -1,4 +1,7 @@
 [![Issues](https://img.shields.io/github/issues-raw/NewMaxT/OpenCV-Face-Tracking?label=Issues&style=for-the-badge)]()
+
+/!\ WIP
+
 # Enhanced OpenCV Face Tracking
 
 C++ Fast Face Tracking on Raspberry Pi using OpenCV2 librairie and Haar Cascade Filters.
